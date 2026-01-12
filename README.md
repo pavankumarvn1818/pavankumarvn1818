@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web application development using the MERN stack, with an enterprise-grade focus on scalable, cloud-enabled solutions.<br>👥 I’m looking to collaborate on<br>SaaS platforms, enterprise web applications, and open-source initiatives leveraging JavaScript, React, and cloud technologies.<br>🤝 I’m looking for help with<br>Cloud deployment pipelines, system architecture optimization, and production-level DevOps workflows.<br>🌱 I’m currently learning<br>Cloud computing, system design, and performance-oriented backend engineering.<br>💬 Ask me about<br>MERN Stack, Java, JavaScript, RESTful APIs, cloud platforms, and full-stack solution delivery.<br>⚡ Fun fact<br>I am a final-year Computer Science student at CMR Institute of Technology, Bangalore, strategically preparing for industry-grade software engineering roles while building production-ready applications.
+# 💫 About Me
+
+🚀 Full-stack engineer building scalable, cloud-native web platforms using the MERN stack and Java-based microservices  
+
+🏗 Focused on SaaS platforms, enterprise web applications, and performance-driven system architecture  
+☁️ Actively working with cloud deployments, CI/CD pipelines, and production-grade DevOps workflows  
+💻 Tech Stack: React, Node.js, MongoDB, RESTful APIs, Java, Spring Boot, and Cloud Platforms  
+🌱 Currently advancing in cloud computing, system design, and backend performance engineering  
+🤝 Open to collaborating on enterprise-scale SaaS products and open-source initiatives  
+🎓 Final-year Computer Science student at CMR Institute of Technology, Bangalore, preparing for industry-grade software engineering roles through production-ready application development
 
 
 ## 🌐 Socials:
